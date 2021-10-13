@@ -1,6 +1,6 @@
 ### ¡Hola, mi nombre es Juan Carlos! 👋
 - 🔭 Estoy trabajando en el Proyecto Itegrador para mi certificado de Digital House.
-- 🌱 Estoy aprendiendo JavaScript, CSS y HTML.
+- 🌱 Estoy aprendiendo a ser Desarrollador Web Full Stack.
 - 👯 Estoy buscando colaborar en proyectos cualesquiera para ganar experiencia.
 - 📫 Puedes comunicarte conmigo a través de mi correo electronico: juan.salas0409@gmail.com
 <!--
