@@ -9,6 +9,6 @@
 Here are some ideas to get you started:
 
 - 🔭 Estoy trabajando en el Proyecto Itegrador de mi curso junto con mis compañeros.
-- 🌱 Estoy aprendiendo JavaScript, CSS y HTML.
+- 🌱 Estoy aprendiendo a ser un Desarrollador Web Full Stack.
 - 👯 Estoy buscando colaborar en proyectos cualesquiera para ganar experiencia.
 - 📫 Puedes comunicarte conmigo a través de mi correo electronico: juan.salas0409@gmail.com
